@@ -1,4 +1,4 @@
-# 0x1F-pascal_triangle
+# 0x00-pascal_triangle
 This interview algorithm project uses a list of lists of integers to represent Pascal's triangle
 
 [Pascal's Triangle](/0x1F-pascal_triangle/0-pascal_triangle.py)
